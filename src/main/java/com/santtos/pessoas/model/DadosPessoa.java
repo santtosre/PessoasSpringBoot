@@ -1,7 +1,5 @@
 package com.santtos.pessoas.model;
-
 import org.springframework.stereotype.Component;
-
 
 public class DadosPessoa{
 
